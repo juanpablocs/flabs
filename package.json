@@ -1,0 +1,20 @@
+{
+  "name": "flabs",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "flabs create module"
+  },
+  "author": "juanpablo && jhonathan && elizabeth",
+  "license": "ISC",
+  "devDependencies": {
+    "adm-zip": "^0.4.7",
+    "commander": "^2.8.1",
+    "exec": "^0.2.0",
+    "fs-extra": "^0.22.1",
+    "inquirer": "^0.9.0",
+    "path": "^0.11.14",
+    "request": "^2.58.0"
+  }
+}
